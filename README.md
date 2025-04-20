@@ -6,6 +6,7 @@ The project focused on analyzing Zomato restaurant data to uncover patterns and 
 To analyze and visualize restaurant-related data such as cost, ratings, online delivery, table booking, cuisine types, and location to understand market behavior, customer preferences, and service distribution trends.
 
 🛠️ Tools & Technologies Used
+
 **Microsoft Excel**
 
 Built a structured data model using multiple sheets
